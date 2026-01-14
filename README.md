@@ -23,5 +23,12 @@ I have 4+ years of experience building, testing, and deploying production-ready 
 - Full-stack applications deployed to AWS
 - Scalable backend systems with strong test coverage
 
+## Services
+- Frontend development (React, modern JavaScript)
+- Backend API development (Spring Boot, Node.js)
+- Machine learning and Python data workflows
+- AWS cloud deployment and application migration
+- Code reviews, testing, and refactoring
+
 ## Contact
 - Email: ryan.mccall.dev@gmail.com
