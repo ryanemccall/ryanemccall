@@ -1,4 +1,4 @@
-# Ryan McCall
+# Ryan McCall (Modrall)
 
 Software Engineer specializing in frontend and backend development, machine learning, and AWS cloud infrastructure.
 
