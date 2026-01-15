@@ -31,4 +31,4 @@ I have 4+ years of experience building, testing, and deploying production-ready 
 - Code reviews, testing, and refactoring
 
 ## Contact
-- Email: ryan.mccall.dev@gmail.com
+- Email: ryan.modrall.dev@gmail.com
